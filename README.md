@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi! I'm Paulo! :)
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-de-tarso-72607012a/)](https://www.linkedin.com/in/paulo-de-tarso-72607012a/)
+
+#### About
+I am currently a web development student!
 
 <!--
 **paulotss/paulotss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
