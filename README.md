@@ -1,6 +1,6 @@
 ### Olá! 👋 Eu sou o Paulo de Tarso! :)
 
-Sou desenvolvedor freelancer e estou em constante busca por aperfeiçoamento. Atualmente estou em formação em Análise e Desenvolvimento de Sistemas e experiência de 6 meses na área. Tenho experiência em criar sistemas inteiros, front end e back end, desde a preparação do ambiente de desenvolvimento até o deploy. Minha principal linguagem é o Javascript e utillizo o React.js para front end e Node.js com TypeScript no back end.
+Sou desenvolvedor freelancer e estou em constante busca por aperfeiçoamento. Tenho experiência em criar sistemas inteiros, front end e back end, desde a preparação do ambiente de desenvolvimento até o deploy. Minha principal linguagem é o Javascript e utillizo o React.js para front end e Node.js com TypeScript no back end.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-de-tarso-dev/)](https://www.linkedin.com/in/paulo-de-tarso-dev/)
 [![Linkedin Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&mailto:paulo.oinab@gmail.com)](mailto:paulo.oinab@gmail.com)
